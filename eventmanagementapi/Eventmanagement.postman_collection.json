@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "3b761937-ecfe-473c-9117-3bcbde1e14df",
+		"name": "Eventmanagement",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26389206"
+	},
+	"item": [
+		{
+			"name": "User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Event",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
